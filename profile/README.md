@@ -80,7 +80,7 @@ Check out our **[CONTRIBUTING.md](CONTRIBUTING.md)** for detailed guidelines (ad
 
 ## 📣 Stay Updated
 
-- **Twitter:** <a href="https://twitter.com/_Then_Run">@Then.Run</a>
+- **Twitter:** <a href="https://twitter.com/_Then_Run">@_Then_Run</a>
 - **Discord/Slack:** _Coming soon_
 - **Newsletter:** Subscribe via our website _(once live)_
 
