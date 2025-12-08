@@ -70,7 +70,8 @@ Check out our **[CONTRIBUTING.md](CONTRIBUTING.md)** for detailed guidelines (ad
 
 ## 📣 Stay Updated
 
-- **Twitter:** <a href="https://twitter.com/_Then_Run">@_Then_Run</a>
+- **Twitter:** <a href="https://twitter.com/_Then_Run">@_Then_Run</a> 
+- **Bluesky:** <a href="https://bsky.app/profile/then-run.bsky.social">@then-run.bsky.social</a>
 - **Discord/Slack:** [Discord](https://discord.then.run)
 - **Newsletter:** Subscribe via our website _(once live)_
 
