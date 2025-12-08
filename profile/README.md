@@ -51,7 +51,7 @@ Stay tuned – we'll be updating this README as soon as the vision is officially
 
 | Repository      | Description                                                   | Stars                                                                   | Language     |
 | --------------- | ------------------------------------------------------------- | ----------------------------------------------------------------------- | ------------ |
-| `then.run/core` | Core libraries & utilities that power the Then.Run ecosystem. | ![Stars](https://img.shields.io/github/stars/ThenRun/core?style=social) | `TypeScript` |
+| `then.run/core` | Core libraries & utilities that power the Then.Run ecosystem. | ![Stars](https://img.shields.io/github/stars/Then-Run/core?style=social) | `TypeScript` |
 
 ---
 
