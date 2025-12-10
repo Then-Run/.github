@@ -64,7 +64,7 @@ We welcome contributions of all kinds – code, docs, ideas, design assets, and 
 3. Commit your changes with clear messages.
 4. Open a Pull Request and describe the changes.
 
-Check out our **[CONTRIBUTING.md](CONTRIBUTING.md)** for detailed guidelines (add the file when you're ready).
+Check out our **[CONTRIBUTING.md](../CONTRIBUTING.md)** for detailed guidelines.
 
 ---
 
