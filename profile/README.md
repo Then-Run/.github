@@ -27,7 +27,7 @@
 
 | 📖 Docs | 🌐 Website | 💬 Chat | 📧 Contact |
 | :------: | :--------: | :-----: | :--------: |
-| Coming soon | Coming soon | [Discord](https://discord.then.run) | <a href="mailto:hello@then.run">hello@then.run</a> |
+| [Docs](https://docs.then.run/) | Coming soon | [Discord](https://discord.then.run) | <a href="mailto:hello@then.run">hello@then.run</a> |
 
 ---
 
